@@ -1,0 +1,6 @@
+[submodule "adapters/cleric-server-adapter-data"]
+	path = adapters/cleric-server-adapter-data
+	url = https://github.com/Afterlifepro/cleric-server-adapter-data
+[submodule "adapters/cleric-server-adapter-network"]
+	path = adapters/cleric-server-adapter-network
+	url = https://github.com/Afterlifepro/cleric-server-adapter-network
